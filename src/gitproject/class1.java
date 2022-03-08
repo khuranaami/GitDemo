@@ -10,5 +10,10 @@ public class class1 {
 	}
 	
 //	helop
+	public void method() {
+		
+		
+	}
 
+	// new comment
 }
